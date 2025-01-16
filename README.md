@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akın Can</h1>
-<h3 align="center">Hi there! I'm Akın Can HANÇER, a passionate Game Developer with over 4 years of experience specializing in Unity Engine and C#. I enjoy creating immersive gaming experiences and experimenting with innovative mechanics. Feel free to explore my projects and reach out for collaboration!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akncn57&label=Profile%20views&color=0e75b6&style=flat" alt="akncn57" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akncn57" alt="akncn57" /></a> </p>
+<h3 align="center"><i>Hi there! I'm Akın Can HANÇER, a passionate Game Developer with over 4 years of experience specializing in Unity Engine and C#. I enjoy creating immersive gaming experiences and experimenting with innovative mechanics. Feel free to explore my projects and reach out for collaboration!</i></h3>
 
 - 🔭 I’m currently working on **2D-Top Down Game**
 
